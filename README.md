@@ -1,7 +1,6 @@
-WhisperCraft
-==============================
+# WhisperCraft: Text-to-Speech Synthesis with GANs
 
-A short description of the project.
+Welcome to WhisperCraft, an innovative project that harnesses the power of Generative Adversarial Networks (GANs) to weave enchanting and realistic human-like speech from textual inputs. WhisperCraft transforms the mundane into the extraordinary, breathing life into words and transcending the boundaries of traditional text-to-speech synthesis.
 
 Project Organization
 ------------
@@ -54,4 +53,37 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+## Project Overview
+
+WhisperCraft employs advanced GAN architectures to create a seamless and natural transition from text to lifelike speech. The models are trained on extensive datasets to capture the nuances of human expression, resulting in an audio experience that is both captivating and authentic.
+
+## Key Features
+
+- **GAN-powered Synthesis**: Utilizes state-of-the-art GAN techniques for text-to-speech synthesis.
+- **Realistic Human-Like Speech**: Generates speech with a level of realism that transcends traditional approaches.
+- **Customizable Voices**: Explore a range of voices and styles to suit diverse preferences and applications.
+- **Open-Source Freedom**: The project is open-source, inviting collaboration and improvement from the community.
+
+## Getting Started
+
+Follow these simple steps to experience the magic of WhisperCraft:
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/smn06/WhisperCraft.git
+   ```
+
+2. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Demo:**
+   ```bash
+   python demo.py --text "Your text here"
+   ```
+   
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
